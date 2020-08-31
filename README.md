@@ -11,5 +11,4 @@ fr24wsFunctions.py - functions are set up for modular use.
 credentials.json - user auth to GCP necessary for interacting with BigQuery.
 keys.py - different key-value pairs, used to connect to gmail for automated report sending, slack for keeping live track of process, and flight radar api token.
 
-
-
+processfile/ResumenReporte.png is built in MS Excel (processfile/FormatoReporte.xlsx) by above mentioned python code that updates cells, adds styling, saves a png of a dynamically sized area {changes daily depending on new info), and sent by email also automated using python.

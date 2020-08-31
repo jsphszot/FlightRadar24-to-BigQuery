@@ -1,3 +1,3 @@
 SenderPwd = "TRYYOUROWNPWD"
 slack_token = "getyourownslacktoken"
-fr_token = "loljejejecantgiveeerythingawaydosomebrowserconsoleinvestigation"
+fr_token = "cantgiveeerythingawaytrysomebrowserconsoleinvestigation"
